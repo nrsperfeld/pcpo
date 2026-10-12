@@ -15,6 +15,7 @@ Não use as palavras "quadrante", "paixão", "vocação", "ecologia" nem "ponte 
 Regras de entrevista desta etapa, além das gerais do `/proximo`:
 - Peça sempre a cena, o fato ou o número. "Sou bom com cliente" não serve, "fechei três contratos grandes no mês com indicação de cliente antigo" serve.
 - As perguntas marcadas com (ver), (escutar) e (sentir) pedem o que a pessoa vê, escuta e sente. Elas destravam quem responde no automático e trazem material que as perguntas lógicas não trazem. Repare em qual desses canais ela fala com mais facilidade e registre na síntese, porque isso vai ajudar a escrever a comunicação dela na etapa de lançamento.
+- Pule as perguntas que já foram respondidas (na etapa 0, na gravação arquivada ou nesta conversa) e anote no bruto qual pulou e onde está a resposta. Perguntar de novo o que a pessoa já contou dá a sensação de que ninguém ouviu.
 - Repare também em verbos de obrigação ("tenho que", "deveria", "preciso", "não posso"). Anote no bruto. Eles voltam na abertura da conversa 2.
 
 
@@ -23,6 +24,7 @@ CONVERSA 1
 O que ela ama fazer
 1. Qual foi a última vez que você perdeu a noção do tempo trabalhando? O que você estava fazendo?
 2. (ver) Quando você se imagina fazendo o trabalho que mais gosta, o que você vê em volta? Onde você está, quem está com você?
+   Se a etapa 0 já tem a cena de um ano à frente, não repita: parta dela ("naquela cena que você contou, ...") e peça um detalhe que ainda não apareceu.
 3. (sentir) E no fim de um dia desses, como é a sensação no corpo?
 4. Que tipo de trabalho você faria mesmo se ninguém te pagasse por um tempo?
 5. Que parte do seu trabalho hoje você adia, e que parte você corre pra fazer?
@@ -31,6 +33,7 @@ Aprofundar: se a resposta for uma área ("vendas"), pergunte qual momento exato 
 Escada de valores (logo depois do bloco acima)
 6. Pegue a atividade que mais brilhou nas respostas e pergunte: quando você faz isso, o que isso te dá?
 7. Sobre a resposta, pergunte de novo: e isso, o que te dá? Repita até a resposta parar de mudar ou ficar emocionalmente forte, normalmente três a cinco vezes.
+Se a escada chegar em história pessoal sensível e a pessoa sinalizar que não quer entrar ("isso eu não vou falar agora"), agradeça em uma frase, não aprofunde, não interprete e encerre a escada ali. O que ela já disse basta. Nada de tom de terapeuta: aqui não é sessão.
 Os degraus de cima são os valores que movem a pessoa. Dinheiro raramente fica no topo. Se ficar, pergunte o que o dinheiro daria pra ela, porque dinheiro sozinho não costuma sustentar um projeto quando a renda já está resolvida.
 
 No que ela é boa
@@ -51,6 +54,7 @@ CONVERSA 2
 Abertura (antes de qualquer pergunta nova, conte em duas linhas o que ela respondeu na conversa 1)
 15. Desde a nossa última conversa, o que mais apareceu na sua cabeça sobre isso?
 16. Teve alguma coisa que você pensou e deixou de falar?
+    Opcional: costuma vir junto na resposta da 15. Só pergunte se a 15 veio curta.
 17. Teve alguma resposta que você deu porque acha que deveria ser assim, e não porque é? Se você anotou verbos de obrigação na conversa 1, cite um ou dois ("você falou que 'tem que' fazer X...") e pergunte o que aconteceria se não tivesse.
 
 O que o mercado precisa
@@ -79,6 +83,8 @@ Primeiro, trabalho seu, sem a pessoa:
 - A partir delas, escreva duas ou três direções candidatas. Cada uma em uma frase de trabalho simples: o que ela faz, pra quem, e o que muda pra essa pessoa. Sem enfeite. Se só couber uma direção com honestidade, fique com uma.
 
 Depois, com a pessoa, uma direção por vez:
+Antes da terça-feira, se a pessoa hoje divide o tempo com algo que quer largar, pergunte em algum momento do fechamento: o que você precisa deixar pra essa direção caber, e quando? Isso vira a meta de transição.
+
 28. Mostre a direção e peça: imagina uma terça-feira comum daqui a dois anos, você vivendo disso. Como começa o dia? (ver) O que você vê? (escutar) Com quem você fala, o que escuta? (sentir) Como você se sente no fim do dia?
     Repare se a fala dela ganha energia, detalhe e velocidade, ou se esfria, fica genérica e curta. Anote. Esse é o teste de congruência mais confiável da etapa.
 29. O que essa direção custa pra sua família, pra sua saúde e pras coisas que são sagradas pra você?
@@ -89,6 +95,8 @@ Depois, com a pessoa, uma direção por vez:
 Por último:
 32. Olhando as direções lado a lado, qual você escolhe pra colocar energia nos próximos doze meses?
     Se apareceram ideias ou oportunidades na etapa 0 ou nas conversas, cite duas a quatro pelo nome e pergunte quais andam junto com a direção escolhida.
+
+Se duas direções empatarem (cada uma com energia por um motivo diferente, por exemplo uma pelo dinheiro e outra pelo sentido), ofereça uma terceira saída: uma vem antes e prepara a outra. Só vale se as duas passarem no filtro de convergência e a primeira de fato abrir caminho pra segunda (dinheiro, método testado, reputação).
 
 As direções que não foram escolhidas não são descartadas. Ficam registradas como guardadas, pra serem revistas na próxima revisão do Ikigai.
 
@@ -101,6 +109,7 @@ Critério de pronto:
 - houve pausa entre as conversas 1 e 2 (ou a pessoa escolheu pular, e isso está registrado)
 - cada direção candidata passou pela terça-feira daqui a dois anos e pelas perguntas de custo e de resistência
 - a pessoa escolheu uma direção e confirmou que se reconhece nela
+- está escrito o que ela vai deixar pra abrir espaço pra direção, e quando
 
 Documento final: `CLAUDE/pcpo/01 Ikigai.md`
 
@@ -136,6 +145,7 @@ Direção escolhida
 {{a frase de trabalho}}
 Como foi a terça-feira daqui a dois anos: {{resumo com as palavras dela e se a fala ganhou ou perdeu energia}}
 O que custa e como vamos cuidar disso: {{texto}}
+Meta de transição: {{o que eu deixo (emprego, frente, cliente) e a condição ou data pra deixar}}
 
 Direções guardadas
 {{as outras candidatas, uma linha cada, com o motivo de não serem a escolhida agora}}

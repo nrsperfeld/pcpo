@@ -13,4 +13,6 @@ Como conduzir, uma pergunta por vez:
 
 O que fazer com a resposta:
 - Não decida pela pessoa. Mostre em três linhas o que ela mesma respondeu e pergunte o que ela quer fazer.
-- Registre a oportunidade e a decisão em `CLAUDE/pcpo/oportunidades.md` (acrescente no fim: data, oportunidade, converge ou não, o que foi decidido). Se o arquivo não existir, crie com a tag `#claude #decisão` no fim.
+- Quando ela decidir, escreva a decisão de forma firme e com validade: "não, até {{data}}" ou "sim, dentro destes limites". Pra quem quer pegar tudo, deixar em aberto ("quem decide é você") faz a pessoa decidir de novo toda semana. Proponha doze meses ou a próxima revisão do Ikigai.
+- Registre em `CLAUDE/pcpo/oportunidades.md` (acrescente no fim: data, oportunidade, converge ou não, decisão e validade). Se o arquivo não existir, crie com a tag `#claude #decisão` no fim.
+- Se a mesma oportunidade voltar antes do prazo, lembre a decisão e a data dela, e só reabra se aconteceu algo novo de verdade.
